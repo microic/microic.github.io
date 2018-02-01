@@ -1,4 +1,4 @@
-Niy
+Deep Learning
 ----
 * [A Simple Example To Learn Deconvolution And Locally Connected Deconvolution](https://github.com/microic/niy/tree/master/examples/girl_and_sunflower)
 * [Training An Artificial Neural Network To Sketch From Nature](https://github.com/microic/niy/tree/master/examples/sketch_from_nature)
