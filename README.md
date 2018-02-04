@@ -5,3 +5,6 @@ Deep Learning
 * [The "Hello World" Example Of Audio Recognition Using Raw Waveform Data As Input](https://github.com/microic/niy/tree/master/examples/speech_commands)
 * [Audio Recognition Using Spectrogram As Input](https://github.com/microic/niy/tree/master/examples/speech_commands_spectrogram)
 * [Sensitivity Analysis(Feature Importance Analysis) Using Artificial Neural Network](https://github.com/microic/niy/tree/master/examples/sensitivity_analysis)
+
+#### Still In Development:
+* [Colorizing Black & White Photos](https://github.com/microic/niy/tree/master/examples/colorizing_photos)
