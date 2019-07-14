@@ -28,3 +28,9 @@ plt.show()
 
 #### LogReLU vs ReLU:
 <img src="log_relu.png" />
+
+It is also very easy to get the gradient of LogReLU:
+<pre>
+1 / (x + 1) if x > 0
+0 if x <= 0
+</pre>
