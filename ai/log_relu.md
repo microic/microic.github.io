@@ -22,7 +22,7 @@ x = x.numpy()
 fig1, = plt.plot(x, y1)
 fig2, = plt.plot(x, y2)
 
-plt.legend(handles=[fig1, fig2], labels=['relu', 'log_relu'], loc='upper left')
+plt.legend(handles=[fig1, fig2], labels=['ReLU', 'LogReLU'], loc='upper left')
 plt.show()
 </pre>
 <img src="log_relu.png" />
