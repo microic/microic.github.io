@@ -25,4 +25,6 @@ fig2, = plt.plot(x, y2)
 plt.legend(handles=[fig1, fig2], labels=['ReLU', 'LogReLU'], loc='upper left')
 plt.show()
 </pre>
+
+#### LogReLU vs ReLU:
 <img src="log_relu.png" />
