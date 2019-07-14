@@ -29,7 +29,7 @@ plt.show()
 #### LogReLU vs ReLU:
 <img src="log_relu.png" />
 As you can see, LogReLU can avoid the output from being too large<br>
-
+<br>
 It is also very easy to get the gradient of LogReLU:
 <pre>
 g = 1 / (x + 1) if x > 0 else 0
