@@ -34,3 +34,7 @@ It is also very easy to get the gradient of LogReLU:
 <pre>
 g = 1 / (x + 1) if x > 0 else 0
 </pre>
+
+#### When to use LogReLU?
++ If you get NaN/Inf error when training deep learning networks
+
