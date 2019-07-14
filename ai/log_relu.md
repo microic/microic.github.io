@@ -31,6 +31,5 @@ plt.show()
 
 It is also very easy to get the gradient of LogReLU:
 <pre>
-1 / (x + 1) if x > 0
-0 if x <= 0
+1 / (x + 1) if x > 0 else 0
 </pre>
