@@ -1,6 +1,5 @@
 # LogReLU
 
-<br>
 LogReLU can be simply defined as **log(max(x, 0) + 1)**. Following is a PyTorch implementation of LogReLU:
 <pre>
 import torch
