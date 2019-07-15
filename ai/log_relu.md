@@ -1,6 +1,5 @@
-# LogReLU: A New Activation Function Inspired By ReLU
+# LogReLU
 
-The output of ReLU may be too large which makes deep learning networks unstable, in this blog, we introduce a new kind of activation function called LogReLU<br>
 <br>
 LogReLU can be simply defined as **log(max(x, 0) + 1)**. Following is a PyTorch implementation of LogReLU:
 <pre>
@@ -39,3 +38,8 @@ g = 1 / (x + 1) if x > 0 else 0
 + If you get NaN/Inf error when training deep learning networks
 + If you want to avoid the output from being too large
 + Alternative of ReLU6 
+
+#### Links
+http://xuebao.jlu.edu.cn/lxb/EN/Y2017/V55/I03/617
+
+
