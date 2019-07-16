@@ -36,7 +36,6 @@ g = 1 / (x + 1) if x > 0 else 0
 #### When to use LogReLU?
 + If you get NaN/Inf error when training deep learning networks
 + If you want to avoid the output from being too large
-+ Alternative of ReLU6 
 
 #### Links
 http://xuebao.jlu.edu.cn/lxb/EN/Y2017/V55/I03/617
